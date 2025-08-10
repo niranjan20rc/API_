@@ -1,7 +1,6 @@
 {
   "name": "PERN_VERCEL_API",
   "version": "1.0.0",
-  "main": "api/index.js",
   "scripts": {
     "dev": "node api/index.js"
   },
